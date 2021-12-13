@@ -1,0 +1,36 @@
+	html{
+		margin:  0px;
+		padding: 0px;
+	}
+	h1{
+		margin-top: 150px;
+		font:  30pt Montserrat, sans-serif;
+		text-align: center;
+	}
+	body{
+		background-color: #EEEEEE;
+		margin: 0px;
+	}
+	#logo{
+		width: 100px;
+		height:  auto;
+	}
+	.nav-background {
+		background-color: #A1CCA5;
+	}
+	.nav-item{
+		font:  12pt Montserrat, sans-serif;
+		margin-right: 50px;
+	}
+	.first-tab{
+		margin-left: 20px;
+	}
+	footer{
+		margin: 0px;
+	}
+	footer p{
+		text-align: center;
+	}
+	.clearfloat{
+		clear: both;
+	}
